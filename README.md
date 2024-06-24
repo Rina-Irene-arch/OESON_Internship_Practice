@@ -14,10 +14,10 @@ This repository contains comprehensive study materials and hands-on practice act
       - EDA Practical
 - ### 5_OESON_Functions_in_Phyton.ipynb
     * Functions in Python
-    * Exercise
-    * Sample Questions
-    * Real-World questions on Functions
-    * Pandas Questions 
-    * Lists Questions
+      - Exercise
+      - Sample Questions
+      - Real-World questions on Functions
+      - Pandas Questions 
+      - Lists Questions
      
       
