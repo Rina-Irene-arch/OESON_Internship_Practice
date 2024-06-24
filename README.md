@@ -7,7 +7,7 @@ This repository contains comprehensive study materials and hands-on practice act
 - ### 3_OESON_Visualization in Python.ipynb
 - ### 4_OESON_EDA_with_Phyton.ipynb
     * EDA - Exploratory data analysis
-      - kidney_stone_data.csv
+      - FastagFraudDetection.csv
       - About Dataset
       - Basic Information
       - Data Vizualisation
