@@ -6,7 +6,20 @@ This repository contains comprehensive study materials and hands-on practice act
       - kidney_stone_data.csv
       - T-Test
       - ANOVA
-      - Chi Square  
+      - Chi Square
+    * Operators in Python 
+      - Arithmetic Operators
+      - Comparison Operators 
+      - Assignment Operators
+      - Logical Operatorss
+    * Data structure
+       1. List
+       2. Tuple
+       3. Dictionary
+       4. Set
+       5. String
+       6. Queues
+       7. Arrays
 - ### 2_Introduction to Pandas and Numpy.ipynb
 - ### 3_OESON_Visualization in Python.ipynb
 - ### 4_OESON_EDA_with_Phyton.ipynb
