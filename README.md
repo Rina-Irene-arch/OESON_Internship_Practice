@@ -52,16 +52,26 @@ This repository contains comprehensive study materials and hands-on practice act
       - Line plots
       - Simple Scatter plot
       - Simple bar plot
-
- 
-- ### 4_OESON_EDA_with_Phyton.ipynb
+- ### 4_OESON_Control_Flow in Python.ipynb
+    * Control_Flow in Python 
+      - If Statement
+      - If-else Statement
+      - Looping statement
+      - While Loop
+    * Control Flow Tools
+      - break statement
+      - continue statement
+      - pass statement
+    * Interview questions
+    * Practice
+- ### 5_OESON_EDA_with_Phyton.ipynb
     * EDA - Exploratory data analysis
       - FastagFraudDetection.csv
       - About Dataset
       - Basic Information
       - Data Vizualisation
       - EDA Practical
-- ### 5_OESON_Functions_in_Phyton.ipynb
+- ### 6_OESON_Functions_in_Phyton.ipynb
     * Functions in Python
       - Exercise
       - Sample Questions
