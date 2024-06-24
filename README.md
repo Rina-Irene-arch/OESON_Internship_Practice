@@ -2,7 +2,11 @@
 This repository contains comprehensive study materials and hands-on practice activities of the OESON Global Internship Data Science Program and serves as a central hub for learning resources.
 ## Study Materials description
 - ### 1_OESON_Phython_Basic.ipynb
-  
+    * Phython_Basic
+      - kidney_stone_data.csv
+      - T-Test
+      - ANOVA
+      - Chi Square  
 - ### 2_Introduction to Pandas and Numpy.ipynb
 - ### 3_OESON_Visualization in Python.ipynb
 - ### 4_OESON_EDA_with_Phyton.ipynb
@@ -20,7 +24,8 @@ This repository contains comprehensive study materials and hands-on practice act
       - Pandas Questions 
       - Lists Questions
 - ### Python_Data_Science_Quiz.ipynb
-    1. Setup
-    2. Pandas DataFrame Operations
-    3. Data Structures: Lists and Dictionaries
-    4. Control Flow: Loops and Conditionals
+    * Python Data Science Quiz
+      1. Setup
+      2. Pandas DataFrame Operations
+      3. Data Structures: Lists and Dictionaries
+      4. Control Flow: Loops and Conditionals
