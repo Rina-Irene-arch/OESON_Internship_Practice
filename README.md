@@ -14,13 +14,13 @@ This repository contains comprehensive study materials and hands-on practice act
       - Assignment Operators
       - Logical Operatorss
     * Data structure
-       1. List
-       2. Tuple
-       3. Dictionary
-       4. Set
-       5. String
-       6. Queues
-       7. Arrays
+       - List
+       - Tuple
+      - Dictionary
+       - Set
+       - String
+       - Queues
+       - Arrays
 - ### 2_Introduction to Pandas and Numpy.ipynb
     * PART 1: Introduction to Pandas and Numpy
       - Introduction to NumPy
@@ -36,9 +36,24 @@ This repository contains comprehensive study materials and hands-on practice act
     * Part 4: Technical Level Questions and Exercises
     * NumPy Practice Questions
     * Pandas Practice Questions
-
-
 - ### 3_OESON_Visualization in Python.ipynb
+    * Matplotlib - basic ploting
+      - Line Chart
+      - Scatter plot
+      - Bar chart
+      - Subplot
+    * Seaborn - basic ploting
+      - hystogram with KDE
+      - Scatter plot with regression line
+      - heatmap
+      - box plot
+    * Practice Questions
+    * Plotly - interactive plots
+      - Line plots
+      - Simple Scatter plot
+      - Simple bar plot
+
+ 
 - ### 4_OESON_EDA_with_Phyton.ipynb
     * EDA - Exploratory data analysis
       - FastagFraudDetection.csv
