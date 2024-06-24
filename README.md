@@ -19,5 +19,8 @@ This repository contains comprehensive study materials and hands-on practice act
       - Real-World questions on Functions
       - Pandas Questions 
       - Lists Questions
-     
-      
+- ### Python_Data_Science_Quiz.ipynb
+    1. Setup
+    2. Pandas DataFrame Operations
+    3. Data Structures: Lists and Dictionaries
+    4. Control Flow: Loops and Conditionals
