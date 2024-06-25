@@ -1,5 +1,6 @@
 # OESON_Internship_Practice
-This repository contains comprehensive study materials and hands-on practice activities of the OESON Global Internship Data Science Program and serves as a central hub for learning resources.
+This repository contains comprehensive study materials and hands-on practice activities of the 
+<a href="https://oesonlearning.com/ogtip/data-science-program" target="_blank" rel="noopener">OESON Global Internship Data Science Program</a> and serves as a central hub for learning resources.
 ## Study Materials Description
 
 - ### 1_OESON_Phython_Basic.ipynb
