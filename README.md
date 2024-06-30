@@ -107,5 +107,3 @@ This repository contains comprehensive study materials and hands-on practice act
       - Conclusions
       - Summary
       - Recommendations
-      -  
-
