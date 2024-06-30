@@ -94,5 +94,18 @@ This repository contains comprehensive study materials and hands-on practice act
          - Encoding the Independent Variable
          - Encoding the Dependent Variable
       - Splitting the dataset into the Training set and Test set
+      - Feature Scaling-
+- ### 8_OESON_support_vector_regression.ipynb
+    * Support Vector Regression (SVR)
+      - Position_Salaries.csv
+      - Importing the libraries
       - Feature Scaling
-     
+      - Training the SVR model on the whole dataset
+      - Predicting a new result
+      - Visualising the SVR results
+      - Visualising the SVR results (for higher resolution and smoother curve)
+      - Conclusions
+      - Summary
+      - Recommendations
+      -  
+
