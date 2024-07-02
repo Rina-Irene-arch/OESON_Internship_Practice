@@ -85,7 +85,7 @@ This repository contains comprehensive study materials and hands-on practice act
       2. Pandas DataFrame Operations
       3. Data Structures: Lists and Dictionaries
       4. Control Flow: Loops and Conditionals
-- ### 7_ML_data_preprocessing.ipynb
+- ### 7_OESON_ML_data_preprocessing.ipynb
     * Machine Learning - Data Preprocessing
       - Importing the libraries
       - Importing the dataset
