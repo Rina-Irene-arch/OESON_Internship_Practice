@@ -3,7 +3,7 @@ This repository contains comprehensive study materials and hands-on practice act
 <a href="https://oesonlearning.com/ogtip/data-science-program" target="_blank" rel="noopener">OESON Global Internship Data Science Program</a> and serves as a central hub for learning resources.
 ## Study Materials Description
 
-- ### 1_OESON_Phython_Basic.ipynb
+- ### 01_OESON_Phython_Basic.ipynb
     * Phython_Basic
       - kidney_stone_data.csv
       - T-Test
@@ -22,7 +22,7 @@ This repository contains comprehensive study materials and hands-on practice act
        - String
        - Queues
        - Arrays
-- ### 2_Introduction to Pandas and Numpy.ipynb
+- ### 02_Introduction to Pandas and Numpy.ipynb
     * PART 1: Introduction to Pandas and Numpy
       - Introduction to NumPy
       - NumPy Arrays
@@ -37,7 +37,7 @@ This repository contains comprehensive study materials and hands-on practice act
     * Part 4: Technical Level Questions and Exercises
     * NumPy Practice Questions
     * Pandas Practice Questions
-- ### 3_OESON_Visualization in Python.ipynb
+- ### 03_OESON_Visualization in Python.ipynb
     * Matplotlib - basic ploting
       - Line Chart
       - Scatter plot
@@ -53,7 +53,7 @@ This repository contains comprehensive study materials and hands-on practice act
       - Line plots
       - Simple Scatter plot
       - Simple bar plot
-- ### 4_OESON_Control_Flow in Python.ipynb
+- ### 04_OESON_Control_Flow in Python.ipynb
     * Control_Flow in Python 
       - If Statement
       - If-else Statement
@@ -65,27 +65,21 @@ This repository contains comprehensive study materials and hands-on practice act
       - pass statement
     * Interview questions
     * Practice
-- ### 5_OESON_EDA_with_Phyton.ipynb
+- ### 05_OESON_EDA_with_Phyton.ipynb
     * EDA - Exploratory data analysis
       - FastagFraudDetection.csv
       - About Dataset
       - Basic Information
       - Data Vizualisation
       - EDA Practical
-- ### 6_OESON_Functions_in_Phyton.ipynb
+- ### 06_OESON_Functions_in_Phyton.ipynb
     * Functions in Python
       - Exercise
       - Sample Questions
       - Real-World questions on Functions
       - Pandas Questions 
       - Lists Questions
-- ### Python_Data_Science_Quiz.ipynb
-    * Python Data Science Quiz
-      1. Setup
-      2. Pandas DataFrame Operations
-      3. Data Structures: Lists and Dictionaries
-      4. Control Flow: Loops and Conditionals
-- ### 7_OESON_ML_data_preprocessing.ipynb
+- ### 07_OESON_ML_data_preprocessing.ipynb
     * Machine Learning - Data Preprocessing
       - Importing the libraries
       - Importing the dataset
@@ -95,15 +89,20 @@ This repository contains comprehensive study materials and hands-on practice act
          - Encoding the Dependent Variable
       - Splitting the dataset into the Training set and Test set
       - Feature Scaling-
-- ### 8_OESON_support_vector_regression.ipynb
-    * Support Vector Regression (SVR)
-      - Position_Salaries.csv
+- ### 08_OESON_ML_simple_linear_regression.ipynb
+    * Simple Linear Regression
       - Importing the libraries
-      - Feature Scaling
-      - Training the SVR model on the whole dataset
-      - Predicting a new result
-      - Visualising the SVR results
-      - Visualising the SVR results (for higher resolution and smoother curve)
-      - Conclusions
-      - Summary
-      - Recommendations
+      - Importing the dataset
+         - Salary_Data.csv 
+      - Splitting the dataset into the Training set and Test set
+      - Training the Simple Linear Regression model on the Training set
+      - Predicting the Test set results
+      - Visualising the Training set results
+      - Visualising the Test set results
+
+- - ### Python_Data_Science_Quiz.ipynb
+    * Python Data Science Quiz
+      1. Setup
+      2. Pandas DataFrame Operations
+      3. Data Structures: Lists and Dictionaries
+      4. Control Flow: Loops and Conditionals
