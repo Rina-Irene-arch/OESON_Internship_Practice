@@ -312,13 +312,32 @@ This repository contains comprehensive study materials and hands-on practice act
       - Visualising the Training set results
       - Visualising the Test set results
       - Conclusion
-
-
-
-
-
-
-
+- ### 51_OESON_DL_RNN.ipynb
+    * Recurrent Neural Network (RNN)
+      - About DataSet
+         - AAPL.csv
+      - Techniques
+      - What Is LSTM?
+      - What Is Time Series Analysis?
+      - Step 2: Building the Model
+      - Step 3: Training the Model
+      - Step 4: Evaluating the Model
+      - Step 5: Visualization
+      - Inferences
+      - Possible Issues and Solutions
+- ### 52_OESON_ML_Practical.ipynb
+    * ML_Practical 
+      - Air Quality Index Dataset
+           - AQI.csv
+      - Data modeling
+      - Train and evaluate
+      - Linear Regression Model:
+      - Gradient Boosting Regressor Model:
+      - hypotuning methods
+- ### 51_OESON_DL_RNN.ipynb
+    * Image Classification with Convolutional Neural Networks using CIFAR-10 Dataset
+      - Build the CNN Model
+      - Interpretation
 - ### Python_Data_Science_Quiz.ipynb
     * Python Data Science Quiz
       1. Setup
