@@ -2,7 +2,15 @@
 This repository contains comprehensive study materials and hands-on practice activities of the 
 <a href="https://oesonlearning.com/ogtip/data-science-program" target="_blank" rel="noopener">OESON Global Internship Data Science Program</a> and serves as a central hub for learning resources.
 ## Study Materials Description
-
+- ### 00_OESON_ML_ModelEvaluation.ipynb
+    * Model Evaluation
+      - Train - Test Split
+      - Model Training
+      - Model Evaluation using Metrics
+      - Classification
+      - Cross Validation
+      - Confusion Matrix
+      - Precision_Recall_Score
 - ### 01_OESON_Phython_Basic.ipynb
     * Phython_Basic
       - kidney_stone_data.csv
